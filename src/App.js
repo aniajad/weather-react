@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1> Hello world</h1>
+        <h1>Weather App</h1>
         <Audio
           height="80"
           width="80"
