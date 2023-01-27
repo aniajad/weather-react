@@ -13,7 +13,7 @@ function App() {
           height="80"
           width="80"
           radius="9"
-          color="blue"
+          color="orange"
           ariaLabel="loading"
           wrapperStyle
           wrapperClass
